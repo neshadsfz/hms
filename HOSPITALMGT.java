@@ -832,7 +832,7 @@ public class HOSPITALMGT
 
    }
 
-   System.out.println("RETURN MAIN MENU press (1/0) for more");
+   System.out.println("RETURN Main Menu press (1/0) for more");
 
    status = input.nextInt();
 
